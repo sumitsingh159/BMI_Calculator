@@ -6,7 +6,8 @@
 
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+
+![Sumit Singh](https://user-images.githubusercontent.com/79156872/151699637-ff69662e-f070-4b01-a486-3cc361e24625.gif)
 
 <h2 id="author">
     👨‍💻 Author:
